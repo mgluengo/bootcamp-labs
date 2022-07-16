@@ -6,11 +6,11 @@ This repo contains most of the **coding labs** completed as part of the **Data A
 
 The repo is organized following the **3 modules** of the bootcamp (see full index below)
 
-| Module            | Content |
-| ------            | -----------|
-| Module 1          | Introduction to Data analytics and Python (data wrangling & cleaning, API & Web scraping, Git, SQL, Python)|
-| Module 2          | Advanced Data Analytics (statistics & probability, inferential statistics, hypothesis testing, Tableau) |
-| Module 3           | Machine Learning Fundamentals (supervised & unsupervised learning; build, train, and evaluate ML models) |
+| Module                | Content |
+| ------                | -----------|
+| Module 1              | Introduction to Data analytics and Python (data wrangling & cleaning, API & Web scraping, Git, SQL, Python)|
+| Module 2              | Advanced Data Analytics (statistics & probability, inferential statistics, hypothesis testing, Tableau) |
+| Module 3              | Machine Learning Fundamentals (supervised & unsupervised learning; build, train, and evaluate ML models) |
 
 ## Tech
 
