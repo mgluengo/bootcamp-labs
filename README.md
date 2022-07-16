@@ -6,11 +6,11 @@ This repo contains most of the **coding labs** completed as part of the **Data A
 
 The repo is organized following the **3 modules** of the bootcamp (see full index below)
 
-| Module        | Content |
-| ------        | -----------|
-| Module 1      | Introduction to Data analytics and Python (data wrangling & cleaning, API & Web scraping, Git, SQL, Python)|
-| Module 2      | Advanced Data Analytics (statistics & probability, inferential statistics, hypothesis testing, Tableau) |
-| Module 3      | Machine Learning Fundamentals (supervised & unsupervised learning; build, train, and evaluate ML models) |
+| Module            | Content |
+| ------            | -----------|
+| Module 1          | Introduction to Data analytics and Python (data wrangling & cleaning, API & Web scraping, Git, SQL, Python)|
+| Module 2          | Advanced Data Analytics (statistics & probability, inferential statistics, hypothesis testing, Tableau) |
+| Module 3           | Machine Learning Fundamentals (supervised & unsupervised learning; build, train, and evaluate ML models) |
 
 ## Tech
 
@@ -56,6 +56,28 @@ The repo is organized following the **3 modules** of the bootcamp (see full inde
 
 ### Module 2
 
+| Week 	| Labs                                                                                                                                    	| Language           	| Description                                                                                                                                                          	|
+|------	|-----------------------------------------------------------------------------------------------------------------------------------------	|--------------------	|----------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
+| 4    	| [descriptive-stats](https://github.com/gladysmawarni/ironhack-labs/tree/main/M2/W4-Descriptive-Stats)                                   	| Python, Statistics 	| Practice better understanding of basic descriptive statistics, how to compute the basic descriptive metrics and compare them in different use cases.                 	|
+| 4    	| [pivot-table-and-correlation](https://github.com/gladysmawarni/ironhack-labs/tree/main/M2/W4-lab-pivot-table-and-correlation)           	| Python             	| Practice Pandas pivot table to extract insights from data, and to describe the strength and direction of the relationship between two variables.                     	|
+| 4    	| [regression-analysis](https://github.com/gladysmawarni/ironhack-labs/tree/main/M2/W4-lab-regression-analysis)                           	| Python, Statistics 	| Apply different types of regressions, and use them to understand the trends in data, and predict future values of the outcome.                                       	|
+| 4    	| [subsetting-and-descriptive-stats](https://github.com/gladysmawarni/ironhack-labs/tree/main/M2/W4-lab-subsetting-and-descriptive-stats) 	| Python, Statistics 	| Use Pandas library to extract insights from your data by dividing it into into several subsets, and use Pandas descriptive statistics functions.                     	|
+| 5    	| [mini-project](https://github.com/gladysmawarni/ironhack-labs/tree/main/M2/W5-M2-mini-project2)                                      	| Python, Statistics 	| Review the concepts of Inferential Statistics. Clean data, do Exploratory Data Analysis, and do hypothesis testing.                                                  	|
+| 5    	| [confidence-intervals](https://github.com/gladysmawarni/ironhack-labs/tree/main/M2/W5-lab-confidence-intervals)                         	| Python, Statistics 	| Apply the knowledge on confidence intervals, using normal, student's t and chi-squared distributions.                                                                	|
+| 5    	| [hypothesis-testing-1](https://github.com/gladysmawarni/ironhack-labs/tree/main/M2/W5-lab-hypothesis-testing-1)                         	| Python, Statistics 	| Construct one sample hypothesis test and confidence intervals.                                                                                                       	|
+| 5    	| [hypothesis-testing-2](https://github.com/gladysmawarni/ironhack-labs/tree/main/M2/W5-lab-hypothesis-testing-2)                         	| Python, Statistics 	| Construct one sample hypothesis test and confidence intervals.                                                                                                       	|
+| 5    	| [intro-probability](https://github.com/gladysmawarni/ironhack-labs/tree/main/M2/W5-lab-intro-prob)                                      	| Python, Statistics 	| Tackle some basic probability questions.                                                                                                                             	|
+| 5    	| [probability-distribution](https://github.com/gladysmawarni/ironhack-labs/tree/main/M2/W5-lab-probability-distributions)                	| Python, Statistics 	| Practice probability distribution to discover meaningful relationship between events and make better data-driven decision.                                           	|
+
+### Module 3
+
+| Week 	| Labs                                                                                                                                                	| Language 	| Description                                                                                                                                                                                                    	|
+|------	|-----------------------------------------------------------------------------------------------------------------------------------------------------	|----------	|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
+| 7    	| [intro-to-ml](https://github.com/gladysmawarni/ironhack-labs/tree/main/M3/W7-lab-intro-to-ml)                                                       	| Python   	| Practice how to properly prepare the data for ML algorithms.                                                                                                                   
+| 7    	| [supervised-learning-feature-extraction](https://github.com/gladysmawarni/ironhack-labs/tree/main/M3/W7-lab-supervised-learning-feature-extraction) 	| Python   	| Explore the techniques to extract meaningful information from data, by transforming the data using derived columns, grouping the data and using aggregated information, or cleaning and reformatting the data. 	|
+| 7    	| [supervised-learning-sklearn](https://github.com/gladysmawarni/ironhack-labs/tree/main/M3/W7-lab-supervised-learning-sklearn)                       	| Python   	| Explore the scikit-learn library in the context of supervised learning.                                                                                                                                        	|
+| 7    	| [supervised-learning](https://github.com/gladysmawarni/ironhack-labs/tree/main/M3/W7-lab-supervised-learning)                                       	| Python   	| Predict malicious vs benign websites using supervised learning.                                                                                                                                                	|
+| 
 
 ## Special Thanks
 
